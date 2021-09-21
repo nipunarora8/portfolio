@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="428.076" height="43" viewBox="0 0 428.076 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c2c7e6;
+        font-size: 30px;
+        font-family: Montserrat-Regular, Montserrat;
+        letter-spacing: -0.002em;
+      }
+
+      .cls-2 {
+        fill: #c3c8e6;
+      }
+    </style>
+  </defs>
+  <g id="Email" transform="translate(-214.424 -964.5)">
+    <text id="nipunarora8_yahoo.com" data-name="nipunarora8@yahoo.com" class="cls-1" transform="translate(260.5 964.5)"><tspan x="0" y="29">nipunarora8@yahoo.com</tspan></text>
+    <g id="email-2" data-name="email" transform="translate(214.424 891.743)">
+      <g id="Group_4" data-name="Group 4" transform="translate(24.785 85.671)">
+        <g id="Group_3" data-name="Group 3">
+          <path id="Path_10" data-name="Path 10" class="cls-2" d="M339.392,152.525l11.579,7.32V144.9Z" transform="translate(-339.392 -144.896)"/>
+        </g>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(0 85.671)">
+        <g id="Group_5" data-name="Group 5">
+          <path id="Path_11" data-name="Path 11" class="cls-2" d="M0,144.9v14.949l11.579-7.32Z" transform="translate(0 -144.896)"/>
+        </g>
+      </g>
+      <g id="Group_8" data-name="Group 8" transform="translate(0.064 80)">
+        <g id="Group_7" data-name="Group 7">
+          <path id="Path_12" data-name="Path 12" class="cls-2" d="M34.99,80H3.165A2.206,2.206,0,0,0,.96,81.827L19.077,93.1,37.195,81.827A2.206,2.206,0,0,0,34.99,80Z" transform="translate(-0.96 -80)"/>
+        </g>
+      </g>
+      <g id="Group_10" data-name="Group 10" transform="translate(0.069 95.9)">
+        <g id="Group_9" data-name="Group 9">
+          <path id="Path_13" data-name="Path 13" class="cls-2" d="M22.979,277.922l-3.217,2a1.2,1.2,0,0,1-1.25,0l-3.217-2L1.024,286.444a2.2,2.2,0,0,0,2.2,1.812H35.05a2.2,2.2,0,0,0,2.2-1.812Z" transform="translate(-1.024 -277.92)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

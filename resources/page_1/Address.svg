@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292.406" height="41" viewBox="0 0 292.406 41">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #c3c8e6;
+      }
+
+      .cls-1 {
+        font-size: 30px;
+        font-family: Montserrat-Regular, Montserrat;
+      }
+    </style>
+  </defs>
+  <g id="Address" transform="translate(-1337.094 -964.5)">
+    <text id="New_Delhi_India" data-name="New Delhi, India" class="cls-1" transform="translate(1378.5 964.5)"><tspan x="0" y="29">New Delhi, India</tspan></text>
+    <g id="home" transform="translate(1337.094 924.73)">
+      <g id="Group_11" data-name="Group 11" transform="translate(-0.001 46.994)">
+        <path id="Path_14" data-name="Path 14" class="cls-2" d="M76.9,120.939l-11.18,9.285a.268.268,0,0,1-.01.059.27.27,0,0,0-.01.058v9.4a1.208,1.208,0,0,0,.37.881,1.193,1.193,0,0,0,.875.373h7.466v-7.522h4.978V141h7.466a1.191,1.191,0,0,0,.875-.373,1.208,1.208,0,0,0,.37-.881v-9.4a.277.277,0,0,0-.02-.117Z" transform="translate(-61.191 -115.997)"/>
+        <path id="Path_15" data-name="Path 15" class="cls-2" d="M31.2,59.236,26.93,55.671V47.68a.611.611,0,0,0-.176-.451.6.6,0,0,0-.448-.176H22.566a.606.606,0,0,0-.448.176.613.613,0,0,0-.175.451V51.5l-4.754-4a2.407,2.407,0,0,0-2.961,0L.216,59.236A.57.57,0,0,0,0,59.657a.637.637,0,0,0,.136.461l1.208,1.45a.664.664,0,0,0,.409.216.722.722,0,0,0,.468-.137l13.484-11.3,13.484,11.3a.6.6,0,0,0,.409.137h.059a.664.664,0,0,0,.409-.215l1.208-1.449a.636.636,0,0,0,.136-.461A.572.572,0,0,0,31.2,59.236Z" transform="translate(0.001 -46.994)"/>
+      </g>
+    </g>
+  </g>
+</svg>
